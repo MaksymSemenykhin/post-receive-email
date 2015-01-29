@@ -14,5 +14,7 @@
 # .git/Config
 [hooks]
 mailinglist = "msem@*.ua, syam@*.ua"
+
 envelopesender = release@*.ua
+
 emailprefix = "[GIT] "
