@@ -18,3 +18,6 @@ mailinglist = "msem@*.ua, syam@*.ua"
 envelopesender = release@*.ua
 
 emailprefix = "[GIT] "
+
+# .git/description
+project name; project description
